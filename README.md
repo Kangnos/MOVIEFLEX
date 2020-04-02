@@ -6,8 +6,11 @@ first, download this project files ```node main.js```
 second, type like this in prompt 
 third, go to website, localhost:3000 
 
-###0.1 ver 
+### 0.1 ver 
 # Just HTML file and Css file
 
-###0.2 ver # Finally made dynaimic website with nodejs ###0.3 ver 
+### 0.2 ver 
+# Finally made dynaimic website with nodejs 
+
+### 0.3 ver 
 # Added more movie
