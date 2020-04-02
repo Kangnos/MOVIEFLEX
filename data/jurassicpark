@@ -1,0 +1,19 @@
+        <div class="MovieImagesContainer">
+            <div class="HeroImagePos">
+                <img src="https://wallpapermemory.com/uploads/510/jurassic-park-background-hd-2560x1440-447671.jpg" class="MovieImage">
+            </div>
+            <div class="MovieNameImage">
+                <img id = "JurassicParkNameImgSize" src="https://library.kissclipart.com/20180919/oq/kissclipart-jurassic-park-logo-movie-dinosaur-32x24-print-post-238a45842fd941e1.png" alt="Japflix-ImitationGame">
+            </div>
+        </div>
+
+        <div class="DetailsContainer">
+            <div class="TitleDiv"><h1 class="Title">JurassicPark</h1></div>
+            <div class="MovieInfo">
+                <span class="actors">Starring:Sam Neill, Laura Dern, Jeff Goldblum</span>
+            </div>
+            <div class="story">
+                <span class="story_span">A multimillionaire unveils a theme park where visitors can see live dinosaurs,<br>but an employee tampers with the security system and the dinos escape.</span>
+            </div>
+            <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=O5gAhEdpEYG5oJhMlVfj4A%252FYfQq3wHmzHm%252BcqqAv9yHDdu65KGiUH1%252Fqd77sZBYiT8sZVydLx2G2waGYK7460DD2Za3B%252BNVAKe%252F%252B2df8vNUveSml%252BKPZyXZOg%252BBJkZaso1RLAx%252FEJRm88BIYwCzlqgFTet%252Fd0bBrjNjfRc1AqM5A43RMK1pr1IEb8aDAvHjRY%253D')">Watch now.</button>
+        </div>

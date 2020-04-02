@@ -1,0 +1,20 @@
+<div class="MovieImagesContainer">
+    <div class="HeroImagePos">
+        <img src="https://wallpapershome.com/images/pages/pic_h/17821.jpg" class="MovieImage">
+    </div>
+    <div class="MovieNameImage">
+        <img id="avengers3_logo" src="https://i.ya-webdesign.com/images/infinity-transparent-avengers-war-4.png">
+    </div>
+</div>
+
+<div class="DetailsContainer">
+    <div class="TitleDiv"><h1 class="Title"></h1></div>
+    <div class="MovieInfo">
+        <span class="actors">Starring: Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Benedict Cumberbatch, Paul Bettany, Josh Brolin, Chris Pratt, Elizabeth Olsen</span>
+    </div>
+    <div class="story">
+        <span class="story_span">Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.</span>
+    </div>
+    <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=qWFWsK2rt1K33bYYpmBb2wMGMGZXpXfdbgjMgdmrbBcH9B6vrrx7HzTkWe3ywPSQaz39%252BKFSzovloiqXkMcC6ZzuFZ4bsaESdar0Q7r9KpSHhkmmAeCU%252B8mcSPgriurLGHmPtpidKXVDI9QP1%252B0bp3aCiIEZTWqUI0ebBDgX56GImD%252Fra%252FUhso%252FbEEMEb3yhE%253D')">Watch now.</button>
+    
+</div>

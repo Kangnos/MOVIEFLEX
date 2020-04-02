@@ -1,0 +1,20 @@
+<div class="MovieImagesContainer">
+    <div class="HeroImagePos">
+        <img src="" class="MovieImage">
+    </div>
+    <div class="MovieNameImage">
+        <img class="NameImageSize" src="">
+    </div>
+</div>
+
+<div class="DetailsContainer">
+    <div class="TitleDiv"><h1 class="Title"></h1></div>
+    <div class="MovieInfo">
+        <span class="actors">Starring: </span>
+    </div>
+    <div class="story">
+        <span class="story_span"></span>
+    </div>
+    <button class="WatchButton", onclick="window.open('')">Watch now.</button>
+    
+</div>

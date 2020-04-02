@@ -1,0 +1,20 @@
+        <div class="MovieImagesContainer">
+            <div class="HeroImagePos">
+                <img src="https://media.glamour.com/photos/5e4147deb89c210009f3abd0/master/pass/MCDPARA_EC166.jpg" class="MovieImage">
+            </div>
+            <div class="MovieNameImage">
+                <img class="NameImageSize" src="https://8flix.com/wp-content/uploads/2020/01/Parasite-2019-logo-W.png" alt="Japflix-Zootopia">
+            </div>
+        </div>
+
+        <div class="DetailsContainer">
+            <div class="TitleDiv"><h1 class="Title">Parasite</h1></div>
+            <div class="MovieInfo">
+                <span class="actors">Starring: Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam </span>
+            </div>
+            <div class="story">
+                <span class="story_span">The Kim family—father Ki-taek, mother Chung-sook, daughter Ki-jung and son Ki-woo—live in a small semi-basement apartment (banjiha), have low-paying temporary jobs as pizza box folders, and struggle to make ends meet.One day, Min-hyuk, a friend of Ki-woo's and a university student, gives the family     a scholar's rock, which is meant to promise wealth to whoever possesses it. He suggests that, when he leaves to study abroad, Ki-woo<br> should take over his job as an English tutor to the wealthy Park family's daughter, Da-hye. Ki-woo poses as a university student and is hired by the Parks;</span>
+            </div>
+            <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=SAn2Zn1MPJOp77cIhmAKIAbKIvq4UnfJt5qNNv9oZCkty%252FTSGPDkB7YNWHmlIdCCWMcc5799s9xk6Nn01RpOdnx9HGqE1OtBq8ksKYs%252Fls0ydcH7TRo%252BV0WKSd5opaF%252FyQXxMHot%252B8R8Ez8faPOXvT6B%252FkQpddXXzmr%252Bcb41o0DwMkdGEy%252BevRqus3dgvHqxA%253D')">Watch now.</button>
+            
+        </div>

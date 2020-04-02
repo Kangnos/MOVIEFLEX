@@ -1,0 +1,20 @@
+<div class="MovieImagesContainer">
+    <div class="HeroImagePos">
+        <img src="https://miro.medium.com/max/3840/1*BDxdaRs49jgInYYWPY9ZVA.jpeg" class="MovieImage">
+    </div>
+    <div class="MovieNameImage">
+        <img class="NameImageSize" src="https://fanart.tv/api/download.php?type=download&image=169264&section=3">
+    </div>
+</div>
+
+<div class="DetailsContainer">
+    <div class="TitleDiv"><h1 class="Title">Train to Busan</h1></div>
+    <div class="MovieInfo">
+        <span class="actors">Starring: Gong yu, Dongsuk ma, Kim Eui-sung</span>
+    </div>
+    <div class="story">
+        <span class="story_span">Train to Busan is a 2016 South Korean action horror film directed by Yeon Sang-ho and starring Gong Yoo, Jung Yu-mi, and Ma Dong-seok. The film mostly takes place on a train to Busan as a zombie apocalypse suddenly breaks out in the country and threatens the safety of the passengers.</span>
+    </div>
+    <button class="WatchButton", onclick="window.open('')">Watch now.</button>
+    
+</div>

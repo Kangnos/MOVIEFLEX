@@ -1,0 +1,20 @@
+<div class="MovieImagesContainer">
+    <div class="HeroImagePos">
+        <img src="https://wallpaperaccess.com/full/1508305.jpg" class="MovieImage">
+    </div>
+    <div class="MovieNameImage">
+        <img id="joker_logo" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa79357-9476-4c1d-b9a8-6e881f2449d3/ddf2d7e-bcfd0bdb-461b-4dd2-b93c-1dcd68208788.png/v1/fill/w_800,h_310,strp/joker_2019_logo_by_buffy2ville_ddf2d7e-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzEwIiwicGF0aCI6IlwvZlwvYWFhNzkzNTctOTQ3Ni00YzFkLWI5YTgtNmU4ODFmMjQ0OWQzXC9kZGYyZDdlLWJjZmQwYmRiLTQ2MWItNGRkMi1iOTNjLTFkY2Q2ODIwODc4OC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-go1ipoSBHObfetR0155gZykA4jUdzSRstDTHoO9Nts">
+    </div>
+</div>
+
+<div class="DetailsContainer">
+    <div class="TitleDiv"><h1 class="Title">Joker</h1></div>
+    <div class="MovieInfo">
+        <span class="actors">Starring: Joaquin Phoenix Robert De Niro Zazie Beetz Frances Conroy</span>
+    </div>
+    <div class="story">
+        <span class="story_span">Joker is a 2019 American psychological thriller film directed and produced by Todd Phillips, who co-wrote the screenplay with Scott Silver. The film, based on DC Comics characters, stars Joaquin Phoenix as the Joker and provides a possible origin story for the character. Set in 1981, it follows Arthur Fleck, a failed stand-up comedian whose descent into insanity and nihilism inspires a violent counter-cultural revolution against the wealthy in a decaying Gotham City. Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Glenn Fleshler, Bill Camp, Shea Whigham, and Marc Maron appear in supporting roles. Joker was produced by Warner Bros. Pictures, DC Films, and Joint Effort, in association with Bron Creative and Village Roadshow Pictures, and distributed by Warner Bros.</span>
+    </div>
+    <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=BjEmEhuAn73Yur%252FtLzRQrwIY8jWdbkBeh8L4uFBM%252FW6y%252BWySA%252BifRW8jvKi4IhlNcP2X02KSk1ZwCQbxJ6rsnUA3e0XirIjZlpaIuk1KyErjfrWlNmJLLCTMBIpr1J90DC9m7VJ2FHJiuGX1dFSBLQDxc6%252BVzGaqp121xyRrV19tGMa2%252B%252B0yeVgBRMzzL2xoR1cNjJ8gUdMYrCDc4It1zs')">Watch now.</button>
+    
+</div>

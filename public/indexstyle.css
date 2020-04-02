@@ -1,0 +1,44 @@
+
+
+a:link{
+    text-decoration: none;
+}
+.contants_header{
+    background-color: black;
+    height: 30px;
+}
+.bosscontainer{
+    text-align: center;
+}
+.GobackIndexButton{
+    font-size: 40px;
+    color: rgb(78, 237, 92);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.header{
+    box-shadow: 4px 4px 4px #000;
+}
+
+body{
+    background-color:#363636;
+}
+
+#Welcome{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: darkgray;
+}
+.imgsize{
+    width: 275px;
+    height: 150px;
+    margin-top: 30px;
+    margin: 10px;
+    box-shadow: 7px 7px 7px #000;
+}
+#movieAtagcontainer{
+    /* text-align: center; */
+    margin-top: 20px;
+}
