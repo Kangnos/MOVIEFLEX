@@ -14,3 +14,8 @@ third, go to website, localhost:3000
 
 ### 0.3 ver 
 # Added more movie
+
+### 0.4 ver
+# Added more movie
+# made err site when input wrong website address.
+# now, made movie page easiler by using node js express router.
