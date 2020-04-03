@@ -4,6 +4,7 @@ var fs = require('fs');
 var mainpage = require('./lib/index.js');
 var moviepage = require('./lib/moviepage.js');
 var path = require('path');
+var errorpage = require('./lib/err.js');
 
 app.use(express.static('public'));
 
@@ -39,6 +40,11 @@ app.get('/movie/:pageId', function(request, response) {
     });
 });
 
+
+app.use(function(req, res, next){
+    var error = errorpage.HTML();
+    res.send(error);
+})
 
 
 app.listen(3000, function() {
