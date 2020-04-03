@@ -1,20 +1,5 @@
-<div class="MovieImagesContainer">
-    <div class="HeroImagePos">
-        <img src="https://image.tmdb.org/t/p/original/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg" class="MovieImage">
-    </div>
-    <div class="MovieNameImage">
-        <img class="NameImageSize" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/1280px-Toy_Story_logo.svg.png" alt="Japflix-Toystory">
-    </div>
-</div>
-
-<div class="DetailsContainer">
-    <div class="TitleDiv"><h1 class="Title">ToyStory</h1></div>
-    <div class="MovieInfo">
-        <span class="actors">Starring: Tom Hanks, Tim Allen, Don Rickles</span>
-    </div>
-    <div class="story">
-        <span class="story_span">Cowboy-toy Woody feels threatened when space ranger Buzz Lightyear arrives. But they<br> join forces to find their way home when the family moves.</span>
-    </div>
-    <button class="WatchButton", onclick="window.open('https://mixdrop.co/e/i9piq')">Watch now.</button>
-    
-</div>
+https://image.tmdb.org/t/p/original/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toy_Story_logo.svg/1280px-Toy_Story_logo.svg.png
+Tom Hanks, Tim Allen, Don Rickles
+Cowboy-toy Woody feels threatened when space ranger Buzz Lightyear arrives. But they<br> join forces to find their way home when the family moves.
+https://mixdrop.co/e/i9piq

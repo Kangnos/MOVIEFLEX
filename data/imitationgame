@@ -1,19 +1,5 @@
-<div class="MovieImagesContainer">
-    <div class="HeroImagePos">
-        <img  src="https://img.thedailybeast.com/image/upload/v1492185888/articles/2015/02/03/the-imitation-game-s-big-gay-lie/150202-teeman-imitation-tease_tzclgj.jpg" class="MovieImage">
-    </div>
-    <div class="MovieNameImage">
-        <img class="NameImageSize" src="https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABcyNWqg0JKIq-Pg7aSmvomM9BXqu-NejLDi1CWElVuREISm_4O0Tgw4m0b6frYxsqOqvbbh-6oTAvm2dK_3R_K3GbrbSEjfgjR5w.png?r=7aa" alt="Japflix-ImitationGame">
-    </div>
-</div>
-
-<div class="DetailsContainer">
-    <div class="TitleDiv"><h1 class="Title">The Imitation Game</h1></div>
-    <div class="MovieInfo">
-        <span class="actors">Starring: Benedict Cumberbatch, Keira Knightley, Matthew Goode</span>
-    </div>
-    <div class="story">
-        <span class="story_span">During World War II, a mathematician leads a team of cryptanalysts as <br>they work feverishly to break the Germans' notorious Enigma code.</span>
-    </div>
-    <button class="WatchButton", onclick= "window.open('https://gdriveplayer.me/embed2.php?link=YJvI9m4DV2qvM4oRTdwdew1CdBdN7IR8U7ClIuL98295Lzr8Z9Eu9w0MYTliyxcn7wiS8HBILDwUgbhMwXUkNfHvq%252BLNh4ukTJn3chDB0LyZb8dKiUtQQvxdOosZVtiA70s4PCnIuDU89GKN%252FqhJsDC6jc87m3ki0mMGv3LyJgoQ8eFDNc5RFjRq1Un6sq3AM%253D')">Watch now.</button>
-</div>
+https://img.thedailybeast.com/image/upload/v1492185888/articles/2015/02/03/the-imitation-game-s-big-gay-lie/150202-teeman-imitation-tease_tzclgj.jpg
+https://occ-0-1818-114.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABcyNWqg0JKIq-Pg7aSmvomM9BXqu-NejLDi1CWElVuREISm_4O0Tgw4m0b6frYxsqOqvbbh-6oTAvm2dK_3R_K3GbrbSEjfgjR5w.png?r=7aa
+Benedict Cumberbatch, Keira Knightley, Matthew Goode
+During World War II, a mathematician leads a team of cryptanalysts as <br>they work feverishly to break the Germans' notorious Enigma code.
+https://gdriveplayer.me/embed2.php?link=YJvI9m4DV2qvM4oRTdwdew1CdBdN7IR8U7ClIuL98295Lzr8Z9Eu9w0MYTliyxcn7wiS8HBILDwUgbhMwXUkNfHvq%252BLNh4ukTJn3chDB0LyZb8dKiUtQQvxdOosZVtiA70s4PCnIuDU89GKN%252FqhJsDC6jc87m3ki0mMGv3LyJgoQ8eFDNc5RFjRq1Un6sq3AM%253D

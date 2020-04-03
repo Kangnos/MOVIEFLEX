@@ -1,20 +1,5 @@
-<div class="MovieImagesContainer">
-    <div class="HeroImagePos">
-        <img src="https://www.itl.cat/pngfile/big/111-1112104_the-golden-circle-.jpg" class="MovieImage">
-    </div>
-    <div class="MovieNameImage">
-        <img id="kingsman2_logo" src="https://file.namu.moe/file/a483c9a0974b0f227db9ce7e47258c5b15117d1eaafdab5301e174d0ee3996ab499cd8ad5771c4003ee17a5993aa221b">
-    </div>
-</div>
-
-<div class="DetailsContainer">
-    <div class="TitleDiv"><h1 class="Title">Kingsman-Golden Circle</h1></div>
-    <div class="MovieInfo">
-        <span class="actors">Starring: Colin Firth, Julianne Moore, Taron Egerton, Mark Strong</span>
-    </div>
-    <div class="story">
-        <span class="story_span">Kingsman: The Golden Circle is a 2017 action spy comedy film produced and directed by Matthew Vaughn and written by Vaughn and Jane Goldman. It is a sequel to Kingsman: The Secret Service (2015) which is based on the comic book series Kingsman, created by Dave Gibbons and Mark Millar. The film features Colin Firth, Taron Egerton, Mark Strong, Edward Holcroft, Hanna Alström, and Sophie Cookson reprising their roles from the first film with Julianne Moore, Halle Berry, Pedro Pascal, Elton John, Channing Tatum, and Jeff Bridges joining the cast. <br>The film follows members of Kingsman needing to team up with their American counterpart, Statesman, after the world is held hostage by Poppy Adams and her drug cartel, "The Golden Circle".</span>
-    </div>
-    <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=3NW2RQsHwfU1t4k1I91pxAaOMZvOcsALd01O7Cf%252B3kEsoqQOnKVm8DekZxSn38%252Bcdq4oVQ%252BsjQLysxwPLYSyD3JRBkqBLtJzbBFA06Lq8S1bY59qNYpFbhjdc8a%252FRdTyraYot1Osw21mAT%252FO3S25ZBAZ2%252FKHBe6KaE2dWhRUFGaxLdW4a1iyhH8lfhdqLGwls%253D')">Watch now.</button>
-    
-</div>
+https://www.itl.cat/pngfile/big/111-1112104_the-golden-circle-.jpg
+https://file.namu.moe/file/a483c9a0974b0f227db9ce7e47258c5b15117d1eaafdab5301e174d0ee3996ab499cd8ad5771c4003ee17a5993aa221b
+Colin Firth, Julianne Moore, Taron Egerton, Mark Strong
+Kingsman: The Golden Circle is a 2017 action spy comedy film produced and directed by Matthew Vaughn and written by Vaughn and Jane Goldman. It is a sequel to Kingsman: The Secret Service (2015) which is based on the comic book series Kingsman, created by Dave Gibbons and Mark Millar. The film features Colin Firth, Taron Egerton, Mark Strong, Edward Holcroft, Hanna Alström, and Sophie Cookson reprising their roles from the first film with Julianne Moore, Halle Berry, Pedro Pascal, Elton John, Channing Tatum, and Jeff Bridges joining the cast. <br>The film follows members of Kingsman needing to team up with their American counterpart, Statesman, after the world is held hostage by Poppy Adams and her drug cartel, "The Golden Circle".
+https://gdriveplayer.me/embed2.php?link=3NW2RQsHwfU1t4k1I91pxAaOMZvOcsALd01O7Cf%252B3kEsoqQOnKVm8DekZxSn38%252Bcdq4oVQ%252BsjQLysxwPLYSyD3JRBkqBLtJzbBFA06Lq8S1bY59qNYpFbhjdc8a%252FRdTyraYot1Osw21mAT%252FO3S25ZBAZ2%252FKHBe6KaE2dWhRUFGaxLdW4a1iyhH8lfhdqLGwls%253D

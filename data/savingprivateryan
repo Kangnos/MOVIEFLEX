@@ -1,19 +1,5 @@
-        <div class="MovieImagesContainer">
-            <div class="HeroImagePos">
-                <img src="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2018/06/Saving-Private-Ryan-494551565.jpg" class="MovieImage">
-            </div>
-            <div class="MovieNameImage">
-                <img class="NameImageSize" src="https://www.filmlocationhunter.co.uk/images/logos/saving_private_ryan_1998.png" alt="">
-            </div>
-        </div>
-
-        <div class="DetailsContainer">
-            <div class="TitleDiv"><h1 class="Title">Saving Private Ryan</h1></div>
-            <div class="MovieInfo">
-                <span class="actors">Starring: Tom Hanks, Tom Sizemore, Edward Burns</span>
-            </div>
-            <div class="story">
-                <span class="story_span">Eight U.S. Army Rangers penetrate German-held<br> territory during World War II to find and bring home<br> a soldier whose three brothers have been killed.</span>
-            </div>
-            <button class="WatchButton", onclick= "window.open('https://gdriveplayer.me/embed2.php?link=ZFVWU62mHJi77mPW4hPr8AtVFEpacdAi2N%252Fp3pxqk0vINHeAUEnwX4b6QmPPUhMqYlAfX0qMK%252FTR6%252FUX4V3E%252Bxtfnmj4X2nITA8YFK7W1v%252FmywyXXh8gyd7jV0J%252BaNapvIIdfb%252BI%252FczQyqlL5ARgr0XgkbNBq7l6EocFfK4k6e9A%253D%253D')">Watch now.</button>
-        </div>
+https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2018/06/Saving-Private-Ryan-494551565.jpg
+https://www.filmlocationhunter.co.uk/images/logos/saving_private_ryan_1998.png
+Tom Hanks, Tom Sizemore, Edward Burns
+Eight U.S. Army Rangers penetrate German-held<br> territory during World War II to find and bring home<br> a soldier whose three brothers have been killed.
+https://gdriveplayer.me/embed2.php?link=ZFVWU62mHJi77mPW4hPr8AtVFEpacdAi2N%252Fp3pxqk0vINHeAUEnwX4b6QmPPUhMqYlAfX0qMK%252FTR6%252FUX4V3E%252Bxtfnmj4X2nITA8YFK7W1v%252FmywyXXh8gyd7jV0J%252BaNapvIIdfb%252BI%252FczQyqlL5ARgr0XgkbNBq7l6EocFfK4k6e9A%253D%253D

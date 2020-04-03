@@ -1,21 +1,5 @@
-        <div class="MovieImagesContainer">
-            <div class="HeroImagePos">
-                <img src="https://images6.alphacoders.com/601/601028.jpg" class="MovieImage">
-            </div>
-            <div class="MovieNameImage">
-                <img class="NameImageSize" src="https://images.squarespace-cdn.com/content/v1/51cdafc4e4b09eb676a64e68/1460571553031-UHWH3ORVLIJ29OCQCW70/ke17ZwdGBToddI8pDm48kGuq-1fpHpJDjf0nhjBCM-l7gQa3H78H3Y0txjaiv_0fG8pAgKpTHPLw24EVOXPIwh7zj8da1mEuzfTkVZrXXq28tYm6j2RpB0d1Gi3SQHdgOqpeNLcJ80NK65_fV7S1UU79e-fShURDhOR1-wZ74zAlPpUaG6PXA-b8gNDY39rvW07ycm2Trb21kYhaLJjddA/image-asset.png" alt="Japflix-Kingsman">
-            </div>
-        </div>
-
-        <div class="DetailsContainer">
-            <div class="TitleDiv"><h1 class="Title">Inside Out</h1></div>
-            <div class="MovieInfo">
-                <span class="actors">Voice:Amy Poehler, Phyllis Smith, Richard Kind </span>
-            </div>
-            <div class="story">
-                <span class="story_span">When young Riley's family moves across the country, her inner Joy corrals her other feelings into <br>helping her cope with a new life and growing up.</span>
-            </div>
-            <!-- <button class="WatchButton", onclick="window.open=alert('No Movie now')">Watch now.</button> -->
-            <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=OOWJv3kBUpptUQIK%252BX4%252B6g5FWIPR8KpX17q4lf2ovjv%252Bkgr90mhQHvDm2jljzqIL7WgVUul6COzXMGVZnlo2XvZJfrOxl%252FuTie9yYnaqezRisNUwV9I4Ie%252FaiYnYXMNk9HonfVp1WykoklP7iq43pnxdDmHiNVszwKPcGlkVQTq1ujvAZ0onr7LqZYHyxcnPY%253D')">Watch now.</button>
-            
-        </div>
+https://wallpapershome.com/images/pages/pic_h/4811.jpg
+https://insideout.band/wp-content/uploads/2017/08/io_logo_brown.png
+Amy Poehler, Phyllis Smith, Richard Kind
+When young Riley's family moves across the country, her inner Joy corrals her other feelings into <br>helping her cope with a new life and growing up.
+https://gdriveplayer.me/embed2.php?link=OOWJv3kBUpptUQIK%252BX4%252B6g5FWIPR8KpX17q4lf2ovjv%252Bkgr90mhQHvDm2jljzqIL7WgVUul6COzXMGVZnlo2XvZJfrOxl%252FuTie9yYnaqezRisNUwV9I4Ie%252FaiYnYXMNk9HonfVp1WykoklP7iq43pnxdDmHiNVszwKPcGlkVQTq1ujvAZ0onr7LqZYHyxcnPY%253D

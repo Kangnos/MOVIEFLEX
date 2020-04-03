@@ -1,20 +1,5 @@
-        <div class="MovieImagesContainer">
-            <div class="HeroImagePos">
-                <img src="https://www.ecopetit.cat/wpic/mpic/23-237805_disney-zootopia.jpg" class="MovieImage">
-            </div>
-            <div class="MovieNameImage">
-                <img class="NameImageSize" src="https://vignette.wikia.nocookie.net/zootopia/images/5/5e/NewZootopia_logo.png/revision/latest?cb=20160111193809" alt="Japflix-Zootopia">
-            </div>
-        </div>
-
-        <div class="DetailsContainer">
-            <div class="TitleDiv"><h1 class="Title">Zootopia</h1></div>
-            <div class="MovieInfo">
-                <span class="actors">Starring:Ginnifer Goodwin, Jason Bateman, Idris Elba</span>
-            </div>
-            <div class="story">
-                <span class="story_span">When an otter mysteriously disappears from the animal city of Zootopia,<br> a rabbit police officer teams up with a fast-talking fox to set things right.</span>
-            </div>
-            <button class="WatchButton", onclick="window.open('https://gdriveplayer.me/embed2.php?link=hj1XD9xpf6KIadt2rgRaKANGxuYkXGiuU%252FGivPif0%252B00vucaD6%252FgPdI9hH%252Bei%252BkaxZvhUxYHKuQj4xOyzMEA1JuiVimi0ydeqJAhMyA4p%252BFjOpqgRejoMEoxWxrjthW4omyhdGDMxRbC5WQyzrZE9GejIo0sM8W%252BhKXshwA3TOhw%253D%253D')">Watch now.</button>
-            
-        </div>
+https://www.ecopetit.cat/wpic/mpic/23-237805_disney-zootopia.jpg
+https://vignette.wikia.nocookie.net/zootopia/images/5/5e/NewZootopia_logo.png/revision/latest?cb=20160111193809
+Ginnifer Goodwin, Jason Bateman, Idris Elba
+When an otter mysteriously disappears from the animal city of Zootopia,<br> a rabbit police officer teams up with a fast-talking fox to set things right.
+https://gdriveplayer.me/embed2.php?link=hj1XD9xpf6KIadt2rgRaKANGxuYkXGiuU%252FGivPif0%252B00vucaD6%252FgPdI9hH%252Bei%252BkaxZvhUxYHKuQj4xOyzMEA1JuiVimi0ydeqJAhMyA4p%252BFjOpqgRejoMEoxWxrjthW4omyhdGDMxRbC5WQyzrZE9GejIo0sM8W%252BhKXshwA3TOhw%253D%253D

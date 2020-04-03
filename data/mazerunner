@@ -1,19 +1,5 @@
-        <div class="MovieImagesContainer">
-            <div class="HeroImagePos">
-                <img src="https://www.gannett-cdn.com/-mm-/93bc22aaff071c08f577fa152bd5d5497fcb604a/c=0-201-3844-2363/local/-/media/BattleCreek/2014/09/19/filmreviewthemazerunner.jpg?width=3200&height=1680&fit=crop" class="MovieImage">
-            </div>
-            <div class="MovieNameImage">
-                <img class="NameImageSize" src="https://occ-0-1818-33.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABZxotzdmp2Qn0sLtpBPxD9B33SLKWM51hfPrVLrsbprE5DCAjcoDSg4dycHQWzyAtJHwGTvwj5P6V800iY1QOWH2s2qV7D0TUbqb.png?r=172" alt="Japflix-ImitationGame">
-            </div>
-        </div>
-
-        <div class="DetailsContainer">
-            <div class="TitleDiv"><h1 class="Title">Maze Runner</h1></div>
-            <div class="MovieInfo">
-                <span class="actors">Starring: Dylan O'Brien, Aml Ameen, Ki Hong Lee, Blake Cooper, Kaya Scodelario</span>
-            </div>
-            <div class="story">
-                <span class="story_span">In a postapocalyptic future, a group of teenage boys are trapped in a <br>mysterious community where they must solve a giant maze in order to survive.</span>
-            </div>
-            <button class="WatchButton", onclick="window.open('http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=959BB96F18773154D0FDACB9DC3074B7360C&outKey=V12103d8c52e8aff9557557707f7ce007402bbdc3807a5b4ea58957707f7ce007402b&width=1280&height=720')">Watch now.</button>
-        </div>
+https://www.gannett-cdn.com/-mm-/93bc22aaff071c08f577fa152bd5d5497fcb604a/c=0-201-3844-2363/local/-/media/BattleCreek/2014/09/19/filmreviewthemazerunner.jpg?width=3200&height=1680&fit=crop
+https://occ-0-1818-33.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABZxotzdmp2Qn0sLtpBPxD9B33SLKWM51hfPrVLrsbprE5DCAjcoDSg4dycHQWzyAtJHwGTvwj5P6V800iY1QOWH2s2qV7D0TUbqb.png?r=172
+Dylan O'Brien, Aml Ameen, Ki Hong Lee, Blake Cooper, Kaya Scodelario
+In a postapocalyptic future, a group of teenage boys are trapped in a <br>mysterious community where they must solve a giant maze in order to survive.
+http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=959BB96F18773154D0FDACB9DC3074B7360C&outKey=V12103d8c52e8aff9557557707f7ce007402bbdc3807a5b4ea58957707f7ce007402b&width=1280&height=720

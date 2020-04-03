@@ -1,20 +1,5 @@
-        <div class="MovieImagesContainer">
-            <div class="HeroImagePos">
-                <img src="https://images8.alphacoders.com/740/thumb-1920-740767.jpg" class="MovieImage">
-            </div>
-            <div class="MovieNameImage">
-                <img class="NameImageSize" src="https://lumiere-a.akamaihd.net/v1/images/up_6467e9a7.png?region=0%2C0%2C2048%2C1024&lossy=true&width=650" alt="Japflix-Up">
-            </div>
-        </div>
-
-        <div class="DetailsContainer">
-            <div class="TitleDiv"><h1 class="Title">Up</h1></div>
-            <div class="MovieInfo">
-                <span class="actors">Starring:Edward Asner, Christopher Plummer, Jordan Nagai</span>
-            </div>
-            <div class="story">
-                <span class="story_span">After a lifetime of dreaming about traveling the world, 78-year-old homebody Carl<br> flies away on an unbelievable adventure with a little boy in tow.</span>
-            </div>
-            <button class="WatchButton", onclick="window.open('')">Watch now.</button>
-            
-        </div>
+https://images8.alphacoders.com/740/thumb-1920-740767.jpg
+https://lumiere-a.akamaihd.net/v1/images/up_6467e9a7.png?region=0%2C0%2C2048%2C1024&lossy=true&width=650
+Edward Asner, Christopher Plummer, Jordan Nagai
+After a lifetime of dreaming about traveling the world, 78-year-old homebody Carl<br> flies away on an unbelievable adventure with a little boy in tow.
+https://mixdrop.co/e/pjpxa1

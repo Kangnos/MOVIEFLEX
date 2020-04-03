@@ -9,15 +9,30 @@ a:link{
 }
 .bosscontainer{
     text-align: center;
+    padding: 25px 5vw;
+    background: #181818;
+    max-width: 1600px;
+    margin: 0 auto;
+    position: relative;
+    top: 97px;
+    padding-top: 16.3px;
+    padding-bottom: 11px;
 }
 .GobackIndexButton{
-    font-size: 40px;
-    color: rgb(78, 237, 92);
+    font-size: 45.6px;
+    color: orange;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
+    margin-left: 30px;
 }
 .header{
     box-shadow: 4px 4px 4px #000;
+    background-color: black;
+    position: fixed;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 
 body{
@@ -25,7 +40,7 @@ body{
 }
 
 #Welcome{
-    font-size: 50px;
+    font-size: 41px;
     font-weight: bold;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -40,5 +55,5 @@ body{
 }
 #movieAtagcontainer{
     /* text-align: center; */
-    margin-top: 20px;
+    margin-bottom: 26px;
 }

@@ -1,20 +1,5 @@
-<div class="MovieImagesContainer">
-    <div class="HeroImagePos">
-        <img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/45/movies-interstellar-01.jpg" class="MovieImage">
-    </div>
-    <div class="MovieNameImage">
-        <img class="NameImageSize" src="https://fanart.tv/fanart/movies/157336/hdmovielogo/interstellar-553a7a5e92720.png">
-    </div>
-</div>
-
-<div class="DetailsContainer">
-    <div class="TitleDiv"><h1 class="Title">Interstellar</h1></div>
-    <div class="MovieInfo">
-        <span class="actors">Starring: Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin</span>
-    </div>
-    <div class="story">
-        <span class="story_span">Interstellar is a 2014 epic science fiction film directed, co-written and co-produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humanity.</span>
-    </div>
-    <button class="WatchButton", onclick="window.open('https://mixdrop.to/e/h5qhz8f7vd')">Watch now.</button>
-    
-</div>
+https://hips.hearstapps.com/digitalspyuk.cdnds.net/14/45/movies-interstellar-01.jp
+https://fanart.tv/fanart/movies/157336/hdmovielogo/interstellar-553a7a5e92720.png
+Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin
+Interstellar is a 2014 epic science fiction film directed, co-written and co-produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humanity.
+https://mixdrop.to/e/h5qhz8f7vd
